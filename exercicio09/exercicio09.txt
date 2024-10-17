@@ -1,0 +1,12 @@
+Mateus Buogo destacou a importância de pensar em segurança no desenvolvimento das aplicações. Cite pelo menos duas tecnologias que podem ser utilizadas para proteger sistemas de backend contra ataques cibernéticos.
+
+Um exemplo de duas tecnologias são: 
+
+1. *Firewall de Aplicação Web (WAF)*: Esse firewall é focado em proteger aplicações web, monitorando o tráfego que vai e vem. Ele ajuda a bloquear ataques comuns, como injeção de SQL e XSS.
+
+2. *Autenticação Multifator (MFA)*: A MFA adiciona uma camada extra de segurança, pedindo mais de uma forma de verificação antes de liberar o acesso. Assim, mesmo que alguém tenha sua senha, ainda fica mais difícil para acessar o sistema.
+
+Referências: 
+
+SÃO PAULO. Sistema de Informação da UFSCar. O que é um firewall? Disponível em: <https://www.sin.ufscar.br/servicos/conectividade/firewall/o-que-e-um-firewall>.
+AKAMAI. What is multifactor authentication? Disponível em: https://www.akamai.com/pt/glossary/what-is-multifactor-authentication
